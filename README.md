@@ -40,4 +40,3 @@ To run this project locally, follow these steps:
 
 Feel free to modify this template to fit your specific project needs. Remember to include any additional information that
 users may find helpful, such as installation instructions, usage examples, or troubleshooting tips. Good luck with your Library Management System project! 
-## Path: README.md
